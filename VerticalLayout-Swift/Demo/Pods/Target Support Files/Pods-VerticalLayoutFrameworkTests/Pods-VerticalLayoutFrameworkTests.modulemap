@@ -1,0 +1,6 @@
+framework module Pods_VerticalLayoutFrameworkTests {
+  umbrella header "Pods-VerticalLayoutFrameworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

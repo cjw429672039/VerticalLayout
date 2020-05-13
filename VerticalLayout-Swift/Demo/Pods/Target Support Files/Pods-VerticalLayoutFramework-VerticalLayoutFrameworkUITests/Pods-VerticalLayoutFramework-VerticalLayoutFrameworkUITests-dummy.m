@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_VerticalLayoutFramework_VerticalLayoutFrameworkUITests : NSObject
+@end
+@implementation PodsDummy_Pods_VerticalLayoutFramework_VerticalLayoutFrameworkUITests
+@end

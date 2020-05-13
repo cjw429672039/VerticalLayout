@@ -1,0 +1,40 @@
+PODS:
+  - Kingfisher (4.10.1)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxGesture (3.0.1):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Kingfisher (= 4.10.1)
+  - RxCocoa (= 5.0.0)
+  - RxGesture (= 3.0.1)
+  - RxSwift (= 5.0.0)
+  - SnapKit (= 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxGesture: a3f8dd6adf078110ed5e1c9c30d09d705a09852e
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 84e0566aee1e5ae444895c09738a2fe064f7c2b8
+
+COCOAPODS: 1.8.4
