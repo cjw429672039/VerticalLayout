@@ -23,6 +23,23 @@ class SettingViewController: VLBaseViewController {
 }
 
 extension SettingViewController {
+    // MARK: - 对象配置
+    override func configurateUI() {
+        super.configurateUI()
+        
+    }
+    
+    // MARK: - 对象布局
+    override func layoutUIInstance() {
+        super.layoutUIInstance()
+        
+    }
+    
+    // MARK: - 对象实例化
+    override func configurateInstance() {
+        super.configurateInstance()
+        
+    }
                             
     // MARK: - 导航栏设置
     override func configurateNavigationBar() {
